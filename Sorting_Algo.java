@@ -1,6 +1,12 @@
 public class Sorting_Algo {
     public static void main(String[] args) {
-        
+        int arr[] = {7, 8, 9, 1, 6, 2, 3, 4, 5};
+
+
+        // Sort the array using Bubble Sort
+        Bubble(arr);
+        System.out.print("The sorted array from Bubble Sort is:\n");
+        printArr(arr);
     }
 
     // Bubble Sort Algorithm 
