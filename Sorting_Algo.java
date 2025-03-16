@@ -24,6 +24,8 @@ public class Sorting_Algo {
         }
     }
 
+    //Selection Sort
+
     //Print The array
     public static void printArr(int arr[]){
         for (int i = 0; i < arr.length-1; i++) {
