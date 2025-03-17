@@ -25,6 +25,9 @@ public class Sorting_Algo {
     }
 
     //Selection Sort
+    public static void selectionSort(int arr[]) {
+                
+    }
 
     //Print The array
     public static void printArr(int arr[]){
